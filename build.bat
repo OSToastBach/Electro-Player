@@ -1,0 +1,1 @@
+beebasm -v -i player.asm -do player.ssd -boot Main -title PLAYER
