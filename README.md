@@ -9,5 +9,5 @@ Electro-Player can then be modified to take the data by replacing this line in `
 incbin "caramelldansen.bin"
 ```
 
-Then the player is to be assembled with [BeebAsm] https://github.com/stardot/beebasm using the included `build.bat` file.
+Then the player is to be assembled with [BeebAsm](https://github.com/stardot/beebasm) using the included `build.bat` file.
 This should produce an .SSD disk which can then be loaded on either an emulator or a real Acorn Electron.
